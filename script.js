@@ -67,7 +67,7 @@ function handleKeyDown(event) {
 
 
 
-function startRecord() {
+ function startRecord() {
     recordList = [];
     latencyList = [];
     recordButton.classList.add("playing")
