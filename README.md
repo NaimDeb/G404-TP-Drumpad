@@ -15,9 +15,3 @@ Ce projet est un Drumpad réalisé en JavaScript. Il permet de jouer des sons de
 ## Installation
 1. Clonez le repository : `git clone https://github.com/NaimDeb/G404-TP-Drumpad.git`
 2. Ouvrez le fichier `index.html` dans votre navigateur pour commencer à jouer.
-
-## Lien du projet
-Accédez au projet original sur [GitHub](https://github.com/NaimDeb/G404-TP-Drumpad).
-
-## Licence
-Ce projet est open-source sous la licence MIT.
