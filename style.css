@@ -149,3 +149,49 @@ h1 {
   box-shadow: 4px 4px 0 0 black;
   user-select: none;
 }
+
+@media screen and (max-width: 500px) {
+  .pad {
+    width: 300px;
+    padding: 15px 20px;
+  }
+
+  .key {
+    width: 80px;
+    height: 80px;
+    margin: 8px 0;
+    font-size: 16px;
+  }
+
+  .sound {
+    font-size: 12px;
+    margin-top: 5px;
+  }
+
+  h1 {
+    font-size: 8vw;
+  }
+
+  .beatBox {
+    font-size: large;
+    margin-top: 60px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .pad {
+    width: 250px;
+    padding: 10px 15px;
+  }
+
+  .key {
+    width: 65px;
+    height: 65px;
+    margin: 6px 0;
+    font-size: 14px;
+  }
+
+  .sound {
+    font-size: 10px;
+  }
+}
